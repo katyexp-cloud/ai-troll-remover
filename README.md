@@ -1,5 +1,6 @@
-# russian-troll-remover
-Scrapped, because most social platforms don't let you delete massive amount of comments regularly. Yes - by deleting bot comments by bot, you get flagged for bot activity.
+# troll-remover
+-x-x-x-x-x-x-x-x-x-x-x- Scrapped, because most social platforms don't let you delete massive amount of comments regularly. Yes - by deleting bot comments by bot, you get flagged for bot activity -x-x-x-x-x-x-x-x-x-x-x-
+
 <img width="1600" height="732" alt="image" src="https://github.com/user-attachments/assets/9ed527cd-42d5-43b3-aca0-a08a66684f90" />
 
 # what's that?
